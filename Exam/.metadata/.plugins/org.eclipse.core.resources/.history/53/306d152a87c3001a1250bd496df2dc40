@@ -1,4 +1,0 @@
-/**
- * A package containing configuration files for the different division methods.
- */
-package filesplitter.fileType;
