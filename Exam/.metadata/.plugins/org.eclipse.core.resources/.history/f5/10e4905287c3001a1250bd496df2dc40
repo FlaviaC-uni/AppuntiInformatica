@@ -1,0 +1,4 @@
+/**
+ * A package containing all the columns used in the {@link filesplitter.gui.panels.MergePanel} layout.
+ */
+package filesplitter.gui.panels.columns;

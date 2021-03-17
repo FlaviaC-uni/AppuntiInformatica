@@ -1,0 +1,26 @@
+package filesplitter.gui.panels;
+
+import javax.swing.ImageIcon;
+
+public class Title extends ImageIcon {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public Title() {
+		super();
+	}
+
+	protected ImageIcon createImageIcon(String path,
+            String description) {
+			java.net.URL imgURL = getClass().getResource(path);
+			if (imgURL != null) {
+				return new ImageIcon(imgURL, description);
+			} else {
+				System.err.println("Couldn't find file: " + path);
+				return null;
+			}
+		}
+}
