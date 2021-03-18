@@ -5,4 +5,5 @@ Nelle varie cartelle sono divisi tutti gli appunti per materia.
  - Le piccole correzioni di errori che non contengono nuovo materiale verrano condivisi con la dicititura -> esempio: ver1.1
 
 ## Appunti-Tecnologie_web
- - Per questa materia è possibile scaricare sia gli appunti in versione JupiterNotebook sia in versione pdf.
+ - Per riuscire a visualizzare (interattivamente) e scaricare i notebook basta copiare il link di questa repository (https://github.com/FlaviaC-uni/AppuntiInformatica) su questo sito: https://mybinder.org/.
+ - Purtroppo non ho trovato una soluzione migliore al momento, se sapete come risolvere scrivetemi pure su Telegram! https://t.me/Flocca99
