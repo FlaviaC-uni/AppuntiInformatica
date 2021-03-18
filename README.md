@@ -7,3 +7,7 @@ Nelle varie cartelle sono divisi tutti gli appunti per materia.
 ## Appunti-Tecnologie_web
  - Per riuscire a visualizzare (interattivamente) e scaricare i notebook basta copiare il link di questa repository (https://github.com/FlaviaC-uni/AppuntiInformatica) su questo sito: https://mybinder.org/.
  - Purtroppo non ho trovato una soluzione migliore al momento, se sapete come risolvere scrivetemi pure su Telegram! https://t.me/Flocca99
+ - Per visualizzare correttamente il notebook è consigliata l'installazione del tema oceans16.
+  - Per installare il tema: https://github.com/dunovank/jupyter-themes
+
+      
